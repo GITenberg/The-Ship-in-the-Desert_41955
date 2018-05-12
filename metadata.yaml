@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8840
     wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41955#The-Ship-in-the-Desert
 gutenberg_issued: '2013-01-31'
 gutenberg_type: Text
 identifiers:
