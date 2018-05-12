@@ -1,0 +1,30 @@
+_repo: The-Ship-in-the-Desert_41955
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41955-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, Joaquin
+    aliases:
+    - Miller, Cincinnatus Hiner
+    - Miller, Cincinnatus Heine
+    birthdate: 1837
+    deathdate: 1913
+    gutenberg_agent_id: '8840'
+    url: http://www.gutenberg.org/2009/agents/8840
+    wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
+description: ''
+gutenberg_issued: '2013-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry'
+title: The Ship in the Desert
+url: http://www.gutenberg.org/ebooks/41955
